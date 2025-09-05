@@ -1,0 +1,8 @@
+reviews:
+  profile: Assertive   # or Chill
+  tools:
+    ruff:
+      enabled: true
+      config: ./ruff.toml
+    eslint:
+      enabled: false
